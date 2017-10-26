@@ -1,4 +1,4 @@
-# IF710 - Programação para Dispositivos Móveis com Android
+﻿# IF710 - Programação para Dispositivos Móveis com Android
 
 ## Ciência da Computação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
 
@@ -22,3 +22,4 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Bruno Melo (bhlvm), Nicola Pedulla (nrlp) - (https://github.com/nrlp50/exercicio-podcast)
 - Antônio Rodrigues (acpr), Thiago Aquino (tas4) - (https://github.com/acportela/exercicio-podcast)
 - Albertinin Mourato (ams11), Guilherme Henrique (ghps) - (https://github.com/ghpsantos/exercicio-podcast)
+- Gabriel Henrique (ghds), Matheus Hermínio (mhc) - (https://github.com/Derzet/exercicio-podcast)
